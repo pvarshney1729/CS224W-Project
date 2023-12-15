@@ -1,4 +1,6 @@
-This repository contains the code for the project Unifying Text and Structure to Enhance GNNs on Text-Augmented Graphs. This project was undertaken as part of CS 224W : Machine Learning with Graphs at Stanford, Fall 2023.
+<h1> Unifying Text and Structure to Enhance GNNs on Text-Augmented Graphs </h1>
+
+This project was undertaken as part of CS 224W : Machine Learning with Graphs at Stanford, Fall 2023.
 
 Authors: Abhinav Lalwani, Ananjan Nandi, Prateek Varshney
 
